@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Car Calculator</string>
+
+    <string-array name="terms">
+        <item>12 months</item>
+        <item>24 months</item>
+        <item>36 months</item>
+        <item>48 months</item>
+        <item>60 months</item>
+    </string-array>
+</resources>
